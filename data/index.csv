@@ -1,0 +1,13 @@
+id,group,split,image,mask,annotation
+S01,clean,val,data/images/S01.jpg,data/masks/S01.png,data/annotations/S01.json
+S02,light,val,data/images/S02.jpg,data/masks/S02.png,data/annotations/S02.json
+S03,hard,val,data/images/S03.jpg,data/masks/S03.png,data/annotations/S03.json
+S04,clean,test,data/images/S04.jpg,data/masks/S04.png,data/annotations/S04.json
+S05,light,test,data/images/S05.jpg,data/masks/S05.png,data/annotations/S05.json
+S06,hard,val,data/images/S06.jpg,data/masks/S06.png,data/annotations/S06.json
+S07,clean,test,data/images/S07.jpg,data/masks/S07.png,data/annotations/S07.json
+S08,light,val,data/images/S08.jpg,data/masks/S08.png,data/annotations/S08.json
+S09,hard,test,data/images/S09.jpg,data/masks/S09.png,data/annotations/S09.json
+S10,clean,val,data/images/S10.jpg,data/masks/S10.png,data/annotations/S10.json
+S11,light,test,data/images/S11.jpg,data/masks/S11.png,data/annotations/S11.json
+S12,hard,test,data/images/S12.jpg,data/masks/S12.png,data/annotations/S12.json

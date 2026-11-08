@@ -1,0 +1,19 @@
+{
+  "n_images": 12,
+  "n_questions_per_image": 20,
+  "n_filled_marks": 240,
+  "n_bubbles": 960,
+  "groups": {
+    "clean": 4,
+    "light": 4,
+    "hard": 4
+  },
+  "splits": {
+    "val": 6,
+    "test": 6
+  },
+  "size": [
+    1240,
+    1754
+  ]
+}
